@@ -1,1 +1,9 @@
-# MashineLearning_Landalide
+#滑坡易发性评估项目
+
+   ##目标
+   使用机器学习与遥感数据分析抚州市滑坡风险区域
+
+   ##进展日志
+   ###2025-3-9:第一次将水系.shp文件导入jupyter lab，并实现plot效果图展示
+   解决qgis集成anaconda问题
+   -代码文件:'滑坡评估.ipynb'
